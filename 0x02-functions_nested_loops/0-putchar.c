@@ -7,15 +7,14 @@
   */
 int main(void)
 {
-	_putchar('o');
-	_putchar('k');
-	_putchar('e');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
 	_putchar('c');
 	_putchar('h');
-	_putchar('u');
-	_putchar('k');
-	_putchar('w');
-	_putchar('u');
+	_putchar('a');
+	_putchar('r');
 	_putchar('\n');
 
 	return (0);
