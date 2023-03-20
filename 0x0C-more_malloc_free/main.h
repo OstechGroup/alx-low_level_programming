@@ -1,3 +1,5 @@
+int _putchar(char c);
+
 /*allocates memory using malloc*/
 void *malloc_checked(unsigned int b);
 
@@ -12,3 +14,8 @@ int *array_range(int min, int max);
 
 /*reallocates a memory block using malloc and free*/
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
+void error(void);
+int _strlen(char *s);
+int ls_digit(char *s);
+
+#endif
